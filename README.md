@@ -92,8 +92,16 @@ Plataforma B2B experimental com APIs em Node.js, processamento em Python, integr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Caio-enriq&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=3B82F6&icon_color=60A5FA&text_color=94A3B8" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-enriq&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=94A3B8&langs_count=8" alt="Linguagens mais utilizadas" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caio-enriq&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caio-enriq&theme=github" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caio-enriq&theme=github_dark" alt="Estatísticas do GitHub" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caio-enriq&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caio-enriq&theme=github" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caio-enriq&theme=github_dark" alt="Linguagens mais utilizadas" />
+</picture>
 
 </div>
 
