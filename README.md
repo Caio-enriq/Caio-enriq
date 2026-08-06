@@ -1,70 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Caio%20Enrique&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Java%20%C2%B7%20Python%20%C2%B7%20TypeScript%20%C2%B7%20React&descAlignY=58&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,50:123B6D,100:2563EB&text=Caio%20Enrique&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Web%20%7C%20Data%20%7C%20Automation&descAlignY=59&descSize=17&animation=fadeIn" alt="Caio Enrique — Full Stack Developer" />
 
 <a href="https://www.linkedin.com/in/caioe/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/Caio-enriq?tab=repositories">
+  <img src="https://img.shields.io/badge/Projetos-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Caio-enriq&style=for-the-badge&color=2563eb&label=PERFIL+VISITADO" />
+<img src="https://komarev.com/ghpvc/?username=Caio-enriq&style=for-the-badge&color=2563EB&label=VISITAS" alt="Visitas ao perfil" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=720&height=45&lines=Transformando+problemas+em+produtos+digitais;Interfaces+claras%2C+backends+confi%C3%A1veis+e+dados+%C3%BAteis;Aprendizado+cont%C3%ADnuo%2C+uma+entrega+de+cada+vez" alt="Apresentação animada" />
 
 </div>
 
-<br/>
+## Olá, eu sou o Caio 👋
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=560&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%9A%80;Apaixonado+por+tecnologia+e+resolu%C3%A7%C3%A3o+de+problemas;Foco+em+Java%2C+Python%2C+TypeScript+e+React;Sempre+aprendendo+algo+novo+%F0%9F%92%BB" alt="Typing SVG" />
-</h3>
+Desenvolvedor de software em Brasília, DF, interessado em construir produtos digitais completos — da experiência do usuário à lógica de negócio e aos dados.
 
-<br/>
+Tenho trabalhado com **TypeScript, React, Next.js, Node.js e Python**, criando dashboards, aplicações full stack, automações e experiências responsivas. Também mantenho contato com **Java, bancos de dados e sistemas corporativos TOTVS**.
 
-## 🎯 Sobre mim
+- 🔭 Atualmente: projetos web full stack, dashboards e análise de dados
+- 🧠 Em evolução: arquitetura de software, inteligência artificial e qualidade de código
+- 💡 Gosto de: transformar requisitos complexos em soluções simples de usar
+- 🤝 Aberto a: colaboração, oportunidades e troca de conhecimento
 
-- 🌎 Baseado em **Brasília - DF, Brasil**
-- 💻 Foco atual em **Java, Python, TypeScript e React**
-- 🤖 Explorando projetos de **Inteligência Artificial**
-- 🏢 Experiência com sistemas **TOTVS**
-- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/caioe/)
-
-<br/>
-
-## 🛠️ Stack
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,react,js,html,css,git,github,vscode,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,java,prisma,mysql,postgres,html,css,git,github,vscode&perline=8&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Python, Java, Prisma, MySQL, PostgreSQL, HTML, CSS, Git, GitHub e VS Code" />
 
 </div>
 
-<br/>
+## Projetos em destaque
 
-## 📊 Estatísticas do GitHub
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [GAEEB — Website Institucional](https://github.com/Caio-enriq/Projeto-Gaeeb)
+
+Aplicação full stack para uma instituição de Brasília, com autenticação, painel administrativo, CRUD, internacionalização, dark mode e analytics.
+
+`Next.js` `React` `TypeScript` `Prisma` `NextAuth`
+
+</td>
+<td width="50%" valign="top">
+
+### [FinTrack](https://github.com/Caio-enriq/FinTrack)
+
+Gestão financeira pessoal com lançamento rápido de despesas, controle de orçamento, gráficos interativos e exportação de dados.
+
+`React` `TypeScript` `Vite` `Recharts`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Health Data Analytics](https://github.com/Caio-enriq/health-data-analytics)
+
+Pipeline em Python para extração e transformação de dados, geração de dashboards e criação de artefatos HTML portáteis.
+
+`Python` `Data Processing` `HTML` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [Enterprise Dashboard](https://github.com/Caio-enriq/Enterprise-Dashboard)
+
+Plataforma B2B experimental com APIs em Node.js, processamento em Python, integrações Google e estrutura modular de serviços.
+
+`Node.js` `Express` `Python` `Google APIs`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Caio-enriq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-enriq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-enriq&theme=tokyonight&hide_border=true&background=0d1117" />
+<a href="https://github.com/Caio-enriq?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver_todos_os_projetos-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os projetos" />
+</a>
 
 </div>
 
-<br/>
-
-## 🐍 Atividade recente
+## GitHub em números
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Caio-enriq/Caio-enriq/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Caio-enriq&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=3B82F6&icon_color=60A5FA&text_color=94A3B8" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-enriq&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=94A3B8&langs_count=8" alt="Linguagens mais utilizadas" />
+
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+### Vamos construir algo relevante?
+
+<a href="https://www.linkedin.com/in/caioe/">
+  <img src="https://img.shields.io/badge/Fale_comigo_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fale comigo no LinkedIn" />
+</a>
+
+<br/><br/>
+
+<sub>“Clareza no código. Intenção no produto. Evolução constante.”</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB,50:123B6D,100:0B1220" alt="" />
 
 </div>
